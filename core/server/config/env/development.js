@@ -1,7 +1,9 @@
 //environment variables. Keep file seperate like this so people don't see your google credentials.
 
+
+//UPDATE FOR THE SPECIFIC PROJECT!!!!
 module.exports = {
-  sessionsSecret: "developmentSessionsSecret",
+  sessionSecret: "developmentSessionSecret",
   google: {
     clientID: "832524501320-8uf4ckue5i6k388c54tbvb0ufl34sdc8.apps.googleusercontent.com",
     clientSecret: "iDbkzdKi8W5Z0lBllHW-D4il",
